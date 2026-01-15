@@ -5,7 +5,7 @@
 ![Mortheim2.png](/img/user/Images/Mortheim2.png)
 <small> The map of Mortheim just before it got cloaked in thick, supernatural fog </small>
 
-A small nation in the north-east of [[The World of Orlias/The Material Plane (Geography)/Darrendal/Darrendal\|Darrendal]].
+A small nation in the north-east of [[Darrendal\|Darrendal]].
 
 **Mortheim** is a country whose culture is rooted in druidic tradition and whose landscapes are defined by lush, mixed forests and winding rivers, nestled in a large valley, seperating the [[Hammerpeaks\|Hammerpeaks]] in the south from the [[Raven-Mountains\|Raven-Mountains]] to the north. 
 To its west are the treacherous [[Ravenwoods\|Ravenwoods]], a gargantuan forest swarming with [[Werewolves\|Werewolves]], [[Ghouls\|Ghouls]] and other creatures of the night.

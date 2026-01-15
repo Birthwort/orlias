@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/historic-events-and-timelines/orlias-timeline/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/historic-events-and-timelines/orlias-timeline/"}
 ---
 
 There is ample evidence of civilizations before the first era, but [[Earthfall\|Earthfall]] erased nearly all written record of it and as such we cannot confidently divide it into eras and will simply refer to it as [[Prehistory\|Prehistory]]. 
