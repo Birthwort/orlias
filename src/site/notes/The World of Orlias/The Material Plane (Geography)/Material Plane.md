@@ -8,10 +8,10 @@
 The **material plane**, the home to [[Humans\|Humans]], [[Dwarves\|Dwarves]], [[Dragons\|Dragons]] and so much more. 
 This is a world built on [[Physical Laws\|Physical Laws]], [[Elements\|Elements]] and [[Souls\|Souls]], it's the twin to the [[Ideal Plane\|Ideal Plane]], influencing it and, in turn, being influenced by it. 
 
-**The material plane** was split from the [[Ideal Plane\|Ideal Plane]] aeons ago, when [[The Forebearers\|The Forebearers]] divided their [[World Unsundered\|ancient world]] in two, thinking it the only way to save reality from [[Them\|Them]]. 
+**The material plane** was split from the [[Ideal Plane\|Ideal Plane]] aeons ago, when [[The Forebearers\|The Forebearers]] divided their [[World Unsundered\|Ancient World]] in two, thinking it the only way to save reality from [[Them\|Them]]. 
 
 The plane primarily consists out of the interplay of base [[Elements\|Elements]]. 
-There are [[Elemental Nexus\|places]], where a specific element is found in abundance, making it dominate the Landscape and cause magical anomalies like [[Cloud Sea\|Cloud Sea]], the [[Korangkai Highland\|Korangkai Highland]] or even the volcanic belt known as the [[Wrathpeaks\|Wrathpeaks]]. 
+There are places, where a specific element is found in abundance, making it dominate the Landscape and cause magical anomalies like [[Cloud Sea\|Cloud Sea]], the [[Korangkai Highland\|Korangkai Highland]] or even the volcanic belt known as the [[Wrathpeaks\|Wrathpeaks]]. Those areas are called [[Elemental Epicentres\|Elemental Epicentres]].
 
 These places were long theorized to be the entrances to elemental planes, theoretical [[Worlds\|Worlds]] that consisted only of their [[Element\|Element]], but this notion has since been discarded, as there is no empirical evidence for these spaces. 
 As such the modern [[Cosmology\|Cosmology]] of the [[Era of the Dawnfather\|third age]] considers the **material plane** as the *only* material world, with areas in it that align with an element especially closely, just like its sister-plane, the [[Ideal Plane\|Ideal Plane]] and its connections to concepts and ideas.
